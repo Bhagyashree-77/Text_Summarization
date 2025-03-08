@@ -1,5 +1,3 @@
-# Project by Soumalya Bhattacharyya(Machine Learning Intern -Suvidha Foundation)
-
 import sys
 import os
 import hashlib
